@@ -163,6 +163,9 @@ Other ways to ask questions and get our support:
 - [Onepanel](https://github.com/onepanelio/core) - Onepanel is an open source
   vision AI platform that fully integrates CVAT with scalable data processing
   and parallelized training pipelines.
+- [DataIsKey](https://dataiskey.eu/annotation-tool/) - DataIsKey is using CVAT as the main data labeling tool to offer annotation service for projects of any size.
+You send us data and instructions on how to label data, we will return labeled data.
+
 
 <!-- prettier-ignore-start -->
 <!-- Badges -->
